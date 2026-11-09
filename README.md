@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a fork of [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python). The documentation, release badges and upstream CI links below describe the upstream project. They do not establish authorship or successful checks in this fork. Cite specific personal commits or upstream pull requests when presenting a contribution; this notice does not claim any contribution has been merged.
+
 # OpenTelemetry Python
 [![Slack](https://img.shields.io/badge/slack-@cncf/otel/python-brightgreen.svg?logo=slack)](https://cloud-native.slack.com/archives/C01PD4HUVBL)
 [![Build Status](https://github.com/open-telemetry/opentelemetry-python/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/open-telemetry/opentelemetry-python/actions/workflows/ci.yml)
